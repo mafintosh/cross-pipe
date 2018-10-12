@@ -1,6 +1,6 @@
 {
   "name": "cross-pipe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create two streams that are cross piped",
   "main": "index.js",
   "dependencies": {
